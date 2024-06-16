@@ -1,0 +1,23 @@
+.tabs {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.tabs__btn {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+  color: #8b8b8b;
+  border-bottom: 2px solid #fff;
+
+  &:hover {
+    color: #000;
+    border-bottom: 2px solid #000;
+  }
+}
+
+.active {
+  color: #000;
+  border-bottom: 2px solid #000;
+}

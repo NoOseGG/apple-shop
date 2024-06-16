@@ -1,0 +1,10 @@
+.products {
+  background-color: #fff;
+}
+
+.products__inner {
+  padding: 56px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
