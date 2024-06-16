@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.container svg {
+    cursor: pointer;
+}
+
+.container svg:hover {
+    scale: 1.2;
+}

@@ -1,0 +1,42 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  gap: 24px;
+}
+
+.title {
+  font-size: 96px;
+  line-height: 72px;
+  font-weight: 200;
+  letter-spacing: -1%;
+
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.topText {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 32px;
+  opacity: 0.5;
+}
+
+.bottomText {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  opacity: 0.5;
+}
+
+.btn {
+  width: 184px;
+  height: 56px;
+  border: 1px solid #fff;
+  border-radius: 6px;
+  font-size: 16px;
+  line-height: 14px;
+  font-weight: 500;
+}

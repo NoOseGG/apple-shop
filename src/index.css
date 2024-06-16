@@ -1,0 +1,10 @@
+@import url(./styles/normalize.css);
+@import url(./styles/fonts.css);
+
+:root {
+}
+
+body {
+  background-color: grey;
+  font-family: "SFProDisplay", sans-serif;
+}

@@ -1,0 +1,11 @@
+.hero {
+  height: 632px;
+  background-color: #211c24;
+}
+
+.hero__inner {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
