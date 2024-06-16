@@ -130,7 +130,7 @@ export const dataDiscountList: IData[] = [
   },
   {
     isFavourite: false,
-    image: watch,
+    image: discountWatch,
     name: "Apple Watch Series 9 GPS 41mm Starlight Aluminium Case",
     price: 399,
   },

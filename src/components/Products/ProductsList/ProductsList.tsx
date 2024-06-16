@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 import styles from "./ProductsList.module.css";
-import { dataProductList, getDataProductList } from "./data/data";
+import { getDataProductList } from "./data/data";
 import Item from "./Item/Item";
 import { Tabs } from "../Products";
 

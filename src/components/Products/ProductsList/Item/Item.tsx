@@ -9,7 +9,7 @@ type Props = {
   price: number;
 };
 
-const Item: React.FC<Props> = ({ isFavourite, image, name, price }) => {
+const Item: React.FC<Props> = ({ image, name, price }) => {
   return (
     <li className={styles.item}>
       <svg
